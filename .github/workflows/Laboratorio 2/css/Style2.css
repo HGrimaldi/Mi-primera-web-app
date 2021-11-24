@@ -1,0 +1,54 @@
+/*Estilos de la pagina de proyectos*/
+
+h1{
+    text-align: center;
+}
+
+.img1{
+    width: 500px;
+    height: 250px;
+    padding: auto;
+    border: 3px solid black;
+}
+.img2{
+    width: 500px;
+    height: 450px;
+    padding: auto;
+    border: 3px solid black;
+    
+}
+
+.img3{
+    height: 250px;
+    width: 500px;
+    padding: auto;
+    border: 3px solid black;
+}
+
+footer {
+    background: #1b2a4e;
+    min-height: 100px;;
+}
+footer p{
+    color:#f3f3f3;
+    text-align:center;
+}
+#iconos  i {
+    font-size: 26px;
+    padding: 0 8px;
+    color:#f3f3f3;
+}
+.Texto1 .Texto2 .Texto3{
+    color: blueviolet;
+}
+
+.Parrafo1{
+    color: blue;
+}
+.Parrafo2{
+    color: blue;
+}
+.Parrafo3{
+    color: blue;
+}
+

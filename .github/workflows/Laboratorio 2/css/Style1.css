@@ -1,0 +1,33 @@
+/*Estilos para el Index*/
+
+.mb-0{
+    text-align: center;
+}
+
+footer {
+    background: #1b2a4e;
+    min-height: 100px;;
+}
+footer p{
+    color:#f3f3f3;
+    text-align:center;
+}
+#iconos  i {
+    font-size: 26px;
+    padding: 0 8px;
+    color:#f3f3f3;
+}
+ 
+
+
+.foto{
+    width: 350px;
+    height: 300px;
+    margin: auto;
+    display: block;
+    border-radius: 10px;
+}
+.divImg{
+    width: 100%;
+}
+
